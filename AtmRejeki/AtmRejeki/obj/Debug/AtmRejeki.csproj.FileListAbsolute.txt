@@ -1,0 +1,16 @@
+D:\Metrodata\AtmRejeki\AtmRejeki\bin\Debug\AtmRejeki.exe.config
+D:\Metrodata\AtmRejeki\AtmRejeki\bin\Debug\AtmRejeki.exe
+D:\Metrodata\AtmRejeki\AtmRejeki\bin\Debug\AtmRejeki.pdb
+D:\Metrodata\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.csproj.AssemblyReference.cache
+D:\Metrodata\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.csproj.SuggestedBindingRedirects.cache
+D:\Metrodata\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.csproj.CoreCompileInputs.cache
+D:\Metrodata\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.exe
+D:\Metrodata\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.pdb
+D:\Metrodata\Tugas MCC\AtmRejeki\AtmRejeki\bin\Debug\AtmRejeki.exe.config
+D:\Metrodata\Tugas MCC\AtmRejeki\AtmRejeki\bin\Debug\AtmRejeki.exe
+D:\Metrodata\Tugas MCC\AtmRejeki\AtmRejeki\bin\Debug\AtmRejeki.pdb
+D:\Metrodata\Tugas MCC\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.csproj.AssemblyReference.cache
+D:\Metrodata\Tugas MCC\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.csproj.SuggestedBindingRedirects.cache
+D:\Metrodata\Tugas MCC\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.csproj.CoreCompileInputs.cache
+D:\Metrodata\Tugas MCC\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.exe
+D:\Metrodata\Tugas MCC\AtmRejeki\AtmRejeki\obj\Debug\AtmRejeki.pdb

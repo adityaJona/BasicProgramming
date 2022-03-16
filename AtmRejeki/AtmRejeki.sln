@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmRejeki", "AtmRejeki\AtmRejeki.csproj", "{0829118F-77B0-427A-998D-EB8FB4F96A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0829118F-77B0-427A-998D-EB8FB4F96A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0829118F-77B0-427A-998D-EB8FB4F96A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0829118F-77B0-427A-998D-EB8FB4F96A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0829118F-77B0-427A-998D-EB8FB4F96A58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C734E4-D2AC-44AC-8D90-E0758CD47EE3}
+	EndGlobalSection
+EndGlobal
